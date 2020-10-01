@@ -1,0 +1,4 @@
+---
+applications:
+ - name: trish-eval-app
+   memory: 128M
